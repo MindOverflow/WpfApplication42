@@ -1,0 +1,6 @@
+D:\WPF\Tests\WpfApplication42\WpfApplication42\bin\Debug\WpfApplication42.exe.config
+D:\WPF\Tests\WpfApplication42\WpfApplication42\bin\Debug\WpfApplication42.exe
+D:\WPF\Tests\WpfApplication42\WpfApplication42\bin\Debug\WpfApplication42.pdb
+D:\WPF\Tests\WpfApplication42\WpfApplication42\obj\Debug\WpfApplication42.csprojResolveAssemblyReference.cache
+D:\WPF\Tests\WpfApplication42\WpfApplication42\obj\Debug\WpfApplication42.exe
+D:\WPF\Tests\WpfApplication42\WpfApplication42\obj\Debug\WpfApplication42.pdb
